@@ -1,0 +1,20 @@
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\bin\Debug\ReadingAFile.exe.config
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\bin\Debug\ReadingAFile.exe
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\bin\Debug\ReadingAFile.pdb
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\obj\Debug\ReadingAFile.csproj.AssemblyReference.cache
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\obj\Debug\ReadingAFile.FrmOpenFileText.resources
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\obj\Debug\ReadingAFile.Properties.Resources.resources
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\obj\Debug\ReadingAFile.csproj.GenerateResource.cache
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\obj\Debug\ReadingAFile.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\obj\Debug\ReadingAFile.exe
+C:\Users\Jhon Real Luis\source\repos\ReadingAFile\obj\Debug\ReadingAFile.pdb
+C:\Users\Jhon Real Luis\source\repos\Reading a File\bin\Debug\ReadingAFile.exe.config
+C:\Users\Jhon Real Luis\source\repos\Reading a File\bin\Debug\ReadingAFile.exe
+C:\Users\Jhon Real Luis\source\repos\Reading a File\bin\Debug\ReadingAFile.pdb
+C:\Users\Jhon Real Luis\source\repos\Reading a File\obj\Debug\ReadingAFile.csproj.AssemblyReference.cache
+C:\Users\Jhon Real Luis\source\repos\Reading a File\obj\Debug\ReadingAFile.FrmOpenFileText.resources
+C:\Users\Jhon Real Luis\source\repos\Reading a File\obj\Debug\ReadingAFile.Properties.Resources.resources
+C:\Users\Jhon Real Luis\source\repos\Reading a File\obj\Debug\ReadingAFile.csproj.GenerateResource.cache
+C:\Users\Jhon Real Luis\source\repos\Reading a File\obj\Debug\ReadingAFile.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Real Luis\source\repos\Reading a File\obj\Debug\ReadingAFile.exe
+C:\Users\Jhon Real Luis\source\repos\Reading a File\obj\Debug\ReadingAFile.pdb
